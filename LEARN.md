@@ -4,10 +4,10 @@
 - [ ] Go through Henrik's [Hubtags](http://learn.humanjavascript.com) Ampersand/React app tutorial
 - [ ] Go through [Front-end Masters 1-week Advanced JS](https://frontendmasters.com/courses/one-week-course-advanced-javascript)
 - [ ] Go through [Front-end Masters 1-week Intro to Web Development](https://frontendmasters.com/courses/one-week-course-intro-to-web-development)
-- [ ] Use with [Velocity.js]() animation library
-- [ ] Practice / use [GSAP]() animations in a project
-- [ ] Read [Eloquent JavaScript]()
-- [ ] Read [You Don't Know JS]()
+- [ ] Use with [Velocity.js](http://julian.com/research/velocity) animation library
+- [ ] Practice / use [GSAP](http://greensock.com/gsap) animations in a project
+- [ ] Read [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] (Re)Read [Human JavaScript](http://read.humanjavascript.com)
 - [ ] Build a Node command line tool (Nexus release web scraper?)
 - [ ] Play with Web Audio API
