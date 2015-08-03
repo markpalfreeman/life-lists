@@ -11,7 +11,7 @@ A few guidelines:
 
 Without further adieu...
 
-## To Do – Week of 7/26/2015
+## To Do – Week of 8/2/2015
 - [ ] Get internet set up at new apartment
 - [ ] Cut sugar and most carbs from diet
 - [ ] Go to gym 3 times
