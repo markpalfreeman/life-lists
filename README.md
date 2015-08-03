@@ -7,7 +7,7 @@ A few guidelines:
 - [LEARN.md](https://github.com/markpalfreeman/life-lists/blob/master/LEARN.md): the main list for learning and goals
 - [/content](https://github.com/markpalfreeman/life-lists/blob/master/content): "done" items that I want to save
 - [/places-and-things](https://github.com/markpalfreeman/life-lists/blob/master/places-and-things): non-learning lists (books, travel destinations, etc)
-- Pull requests / issue contributions are always encouraged – be creative!
+- Pull requests & contributions are always encouraged – be creative!
 
 Without further adieu...
 
