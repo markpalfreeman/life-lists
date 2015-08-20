@@ -9,7 +9,7 @@
 - [ ] Practice / use [GSAP](http://greensock.com/gsap) animations in a project
 - [ ] Read [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] (Re)Read [Human JavaScript](http://read.humanjavascript.com)
+- [ ] Re-Read [Human JavaScript](http://read.humanjavascript.com)
 - [ ] Read [Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide)
 - [ ] Build a Node command line tool (Nexus release web scraper?)
 - [ ] Play with Web Audio API
@@ -25,7 +25,7 @@
 - [ ] Implement Stripe in a site to accept payments w/ different terms
 
 #### Community / Public
-- [ ] Build a new blog using HarpJS
+- [x] Build a new blog using HarpJS
 - [ ] Write something into a Slack bot
 - [ ] Publish a package to NPM
 - [ ] Put together 10min talk on office culture / teams

@@ -1,7 +1,9 @@
 # Books
 
 #### To Read
-- [ ] Leaders Eat Last (Sinek) 
-- [ ] What the Dog Saw (Gladwell)
+- [ ] What the Dog Saw (Malcolm Gladwell)
+- [ ] The Gift (Lewis Hyde)
+- [ ] One From Many (Dee Hock)
 
 #### Finished
+- [x] Leaders Eat Last (Simon Sinek)
