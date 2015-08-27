@@ -30,3 +30,4 @@
 - [ ] Publish a package to NPM
 - [ ] Put together 10min talk on office culture / teams
 - [ ] Apply to speak at a conference
+- [ ] Write/submit a post to Pastry Box Project 
