@@ -1,11 +1,11 @@
 # Learning Goals:
 
 #### JavaScript
-- [ ] Go through Henrik's [Hubtags](http://learn.humanjavascript.com) Ampersand/React app tutorial
+- [x] Go through Henrik's [Hubtags](http://learn.humanjavascript.com) Ampersand/React app tutorial
 - [ ] Go through [Front-end Masters 1-week Advanced JS](https://frontendmasters.com/courses/one-week-course-advanced-javascript)
 - [ ] Go through [Front-end Masters 1-week Intro to Web Development](https://frontendmasters.com/courses/one-week-course-intro-to-web-development)
 - [ ] Go through [JavaScript: The Good Parts](http://www.pluralsight.com/courses/javascript-good-parts) PluralSight course
-- [ ] Use with [Velocity.js](http://julian.com/research/velocity) animation library
+- [ ] Use [Velocity.js](http://julian.com/research/velocity) animation library
 - [ ] Practice / use [GSAP](http://greensock.com/gsap) animations in a project
 - [ ] Read [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
