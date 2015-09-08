@@ -19,6 +19,7 @@
 - [ ] Research / play with PostCSS
 - [ ] Practice CSS animation syntax and features
 - [ ] Write a small modular CSS library and publish to NPM
+- [ ] Use an NPM CSS library in a project (PureCSS, Tachyons)
 
 #### API
 - [ ] Find a CraftCMS tutorial and do it
