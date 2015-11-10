@@ -2,8 +2,8 @@
 
 #### JavaScript
 - [x] Go through Henrik's [Hubtags](http://learn.humanjavascript.com) Ampersand/React app tutorial
-- [ ] Go through [Front-end Masters 1-week Advanced JS](https://frontendmasters.com/courses/one-week-course-advanced-javascript)
-- [ ] Go through [Front-end Masters 1-week Intro to Web Development](https://frontendmasters.com/courses/one-week-course-intro-to-web-development)
+- [ ] Go through [Front-end Masters Intro to Web Development](https://frontendmasters.com/courses/one-week-course-intro-to-web-development)
+- [ ] Go through [Front-end Masters Advanced JS](https://frontendmasters.com/courses/one-week-course-advanced-javascript)
 - [ ] Go through [JavaScript: The Good Parts](http://www.pluralsight.com/courses/javascript-good-parts) PluralSight course
 - [ ] Use [Velocity.js](http://julian.com/research/velocity) animation library
 - [ ] Practice / use [GSAP](http://greensock.com/gsap) animations in a project
@@ -14,6 +14,7 @@
 - [ ] Build a Node command line tool (Nexus release web scraper?)
 - [ ] Play with Web Audio API
 - [ ] Read enough on WebAssembly to understand its need
+- [ ] Read [SublimeJS: Intro to React & Webpack](http://survivejs.com/webpack_react/introduction)
 
 #### CSS
 - [ ] Research / play with PostCSS
@@ -31,4 +32,4 @@
 - [ ] Publish a package to NPM
 - [ ] Put together 10min talk on office culture / teams
 - [ ] Apply to speak at a conference
-- [ ] Write/submit a post to Pastry Box Project 
+- [ ] Write/submit a post to Pastry Box Project

@@ -1,7 +1,6 @@
 # Restaurants
 
 #### To go to
-- [ ] Loulay
 - [ ] Shiro's Sushi
 - [ ] Wasabi
 
@@ -9,6 +8,7 @@
 - [x] Bastille
 - [x] Bottle House
 - [x] Cichetti
+- [x] Loulay
 - [x] The Other Coast
 - [x] Palace Kitchen
 - [x] Paseo

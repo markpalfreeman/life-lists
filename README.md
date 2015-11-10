@@ -11,9 +11,8 @@ There are too many things I want to learn and keep track of that I never do. A s
 
 Without further adieu...
 
-## To Do – Week of 9/07/2015
+## To Do – Week of 11/09/2015
 
-- [ ] Read Chapter 2 of The Gift
-- [ ] Wear teeth guard every day at work
-- [ ] Go to gym 3 times
-- [ ] Email signup spreadsheet and plan for 'Lightning talks' at work
+- [ ] Go to gym twice
+- [ ] Write blog post about SWC, whiskey, and people
+- [x] Ask about remote work policy
