@@ -11,8 +11,9 @@ There are too many things I want to learn and keep track of that I never do. A s
 
 Without further adieu...
 
-## To Do – Week of 11/09/2015
+## To Do – Week of 11/23/2015
 
-- [ ] Go to gym twice
-- [ ] Write blog post about SWC, whiskey, and people
-- [x] Ask about remote work policy
+- [x] Setup Slack for Whiskey Collective 
+- [ ] Read YDKJS #1
+- [ ] Start a custom Slack bot in Whiskey Collective
+- [ ] Design a logo for Trust the Rooster

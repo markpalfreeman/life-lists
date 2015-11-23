@@ -15,6 +15,7 @@
 - [ ] Play with Web Audio API
 - [ ] Read enough on WebAssembly to understand its need
 - [ ] Read [SublimeJS: Intro to React & Webpack](http://survivejs.com/webpack_react/introduction)
+- [ ] Go through Dan Abramov's [Egghead Redux videos](https://egghead.io/series/getting-started-with-redux)
 
 #### CSS
 - [ ] Research / play with PostCSS
@@ -22,7 +23,7 @@
 - [ ] Write a small modular CSS library and publish to NPM
 - [ ] Use an NPM CSS library in a project (PureCSS, Tachyons)
 
-#### API
+#### API / Back-end
 - [ ] Find a CraftCMS tutorial and do it
 - [ ] Implement Stripe in a site to accept payments w/ different terms
 
