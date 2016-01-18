@@ -1,6 +1,7 @@
 # Travel Destinations
 
-- [ ] New Orleans, LA
+- [x] New Orleans, LA
 - [ ] Boston, MA
 - [ ] Italy
 - [ ] England
+- [ ] Scotland 

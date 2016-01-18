@@ -11,9 +11,9 @@ There are too many things I want to learn and keep track of that I never do. A s
 
 Without further adieu...
 
-## To Do – Week of 11/23/2015
+## To Do – Week of 1/18/2016
 
-- [x] Setup Slack for Whiskey Collective 
-- [ ] Read YDKJS #1
-- [ ] Start a custom Slack bot in Whiskey Collective
-- [ ] Design a logo for Trust the Rooster
+- [ ] Go to gym twice this week
+- [ ] Finish Tyler McGinnis' [Egghead React tutorial](https://egghead.io/series/build-your-first-react-js-application)
+- [ ] Start React/Webpack boilerplate for [Whiskey Notes](https://github.com/markpalfreeman/whiskey-notes) app
+- [ ] Commit sidebar to Palf.co
